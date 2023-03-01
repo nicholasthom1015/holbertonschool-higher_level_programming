@@ -1,5 +1,8 @@
 #!/usr/bin/python3
 
+"""
+quote
+"""
 import sys
 import MySQLdb
 
