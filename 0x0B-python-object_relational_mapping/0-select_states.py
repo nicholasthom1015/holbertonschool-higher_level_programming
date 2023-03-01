@@ -1,8 +1,6 @@
 #!/usr/bin/python3
+"""quote"""
 
-"""
-quote
-"""
 import sys
 import MySQLdb
 
