@@ -1,4 +1,9 @@
-$('DIV#add_item').click(function () {
-    $('UL.my_list').append('<li>Item</li>');
-  });
-  
+#!/usr/bin/node
+//Add Element to <ul> list, using JQUERY
+
+
+$('div#add_item').click(
+  function() {
+      $('ul.my_list').append('<li>Item</li>');
+  }
+);
